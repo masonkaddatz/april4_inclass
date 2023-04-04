@@ -1,20 +1,3 @@
-// fetch API
-
-// fetch("https://jsonplaceholder.typicode.com/users?username=Bret")
-//   .then((response) => response.json())
-//   .then((users) => {
-// how many users we have
-// console.log(users[0].name);
-// console.log(users / length);
-// users is an array
-// loop through the array
-// users.forEach((user) => {
-//   console.log(user.name);
-// });
-//   });
-
-// In-class Activity:
-
 // Task 1
 
 // Question 1:
